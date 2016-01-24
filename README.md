@@ -20,7 +20,7 @@ A scaffold of react application for my personal use.
 
 ## Usage
 
-```
+```JSON
 {
   "scripts": {
     "build": "npm run build:client && npm run build:server",
