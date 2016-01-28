@@ -2,6 +2,8 @@
 
 A scaffold of react application for my personal use.
 
+(or use [this](https://github.com/ucfan/react-redux-scaffold) for building redux application.)
+
 ## What's in it?
 
 - react
